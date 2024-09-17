@@ -1,9 +1,13 @@
-# customer_churn_analysis
-
 # Customer Churn Analysis (TL;DR)
 
 ## Overview
 This project analyzes customer churn data from a telecom company to understand **why customers leave** and **how to reduce churn**. The analysis focuses on key customer demographics, service usage, and billing methods to uncover patterns associated with customer churn. Actionable insights are provided based on exploratory data analysis (EDA), and future enhancements include the use of predictive modeling.
+
+You can view the **full analysis** in the Jupyter Notebook:  
+[Customer_Churn_Analysis.ipynb](./Customer_Churn_Analysis.ipynb)
+
+The **dataset** used for the analysis can be found here:  
+[customer_churn_data.csv](./Telco-Customer-Churn.csv)
 
 ## Key Findings
 - **Tenure**: Longer-tenured customers are less likely to churn (negative correlation of -0.35).
